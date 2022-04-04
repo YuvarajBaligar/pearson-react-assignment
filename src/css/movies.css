@@ -1,0 +1,15 @@
+.movies-list {
+    margin-top: 10px;
+    padding: 5px;
+   }
+.view-items{
+    display: inline-flex;
+    margin: 10px 10px;
+}
+.fav_list{
+    margin: 20px 10px;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+    font-size: 25px
+}
